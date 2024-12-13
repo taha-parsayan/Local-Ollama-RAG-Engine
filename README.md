@@ -48,10 +48,6 @@ This repository contains a chatbot implementation leveraging large language mode
     pip install "transformers[torch]" "huggingface_hub[inference]"
     ```
 
-4. Install additional dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
