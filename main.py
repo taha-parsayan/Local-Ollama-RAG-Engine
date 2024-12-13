@@ -1,6 +1,4 @@
 '''
-https://www.youtube.com/watch?v=WL7V9JUy2sE&list=PLVEEucA9MYhNrD8TBI5UqM6WHPUlVv89w
-
 https://docs.llamaindex.ai/en/stable/module_guides/models/llms/usage_custom/
 
 python.exe -m pip install --upgrade pip
