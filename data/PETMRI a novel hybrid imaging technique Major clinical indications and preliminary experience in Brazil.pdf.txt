@@ -1,0 +1,245 @@
+                                                                                                                                                                                                       MEDICAL DEVELOPMENTS
+
+                                     PET/MRI: a novel hybrid imaging technique.
+ Major clinical indications and preliminary experience in BrazilPET/RM: um novo método de imagem híbrida.
+                                           Principais indicações clínicas e experiência preliminar no Brasil
+        Taise Vitor1, Karine Minaif Martins, Tudor Mihai Ionescu, Marcelo Livorsi da Cunha1, Ronaldo Hueb Baroni,1                   1                                                                                                                1
+                                  Marcio Ricardo Taveira Garcia1  , Jairo Wagner1, Guilherme de Carvalho Campos Neto,1
+                                             Solange Amorim Nogueira1 , Elaine Gonçalves Guerra, Edson Amaro Junior11
+ABSTRACT                                                                                                                             Descritores: Tomografia por emissão de pósitrons/métodos; Imagem
+In recent years, medical imaging with hybrid techniques has                                                                          por ressonância magnética/métodos; Tomografia computadorizada
+widely accepted and employed in clinical routine. PET/MRI offers                                                                     por raios x/métodos; Neoplasias pélvicas; Neoplasias da próstata;
+significant advantages, including excellent contrast and resolution                                                                  Neuroimagem
+and reduced ionizing radiation, as compared to well-established PET/
+CT. Therefore, PET/MRI is a promising modality for oncologic imaging
+of some regions, such as brain, head and neck, liver and pelvis. This                                                                INTRODUCTION
+article set out to analyze clinical conditions that could benefit from                                                               Positron emission tomography (PET) was developed by
+PET/MRI imaging based on our caseload. The potential of PET/MRI to                                                                   Ter-Pogossian et al., in the 1970s, and implemented in
+become the imaging modality of choice for assessment of neurologic                                                                   clinical practice in the late 1980s and early 1990s.(1)
+and oncologic conditions associated with soft tissues is highlighted.                                                                        The first whole-body integrated PET/magnetic
+Clinical aspects of PET/MRI and its application to clinical cases are                                                                resonance imaging (PET/MRI) system has been recently
+illustrated with examples extracted from the authors’ preliminary
+experience.                                                                                                                          introduced. The adoption of PET/MRI has been much
+                                                                                                                                     slower compared to PET/computed tomography (PET/
+Keywords: Positron-emission tomography/methods; Magnetic resonance                                                                   CT).         Since           its     introduction                    in     2010,          approximately
+imaging/methods; Tomography, x-ray computed/methods; Pelvic neoplasms;                                                               70 systems have been installed worldwide, mostly in
+Prostatic neoplasms; Neuroimaging                                                                                                    universities.(2)                Equipment costs, operational costs and
+                                                                                                                                     related logistics are thought to account for the slow
+RESUMO                                                                                                                               adoption of the method. Furthermore, diagnostic
+Nos últimos anos, imagens médicas com tecnologias híbridas                                                                           benefits compared to well-established high performance
+tornaram-se amplamente aceitas e utilizadas na prática clínica. O PET/                                                               modalities, such as PET/CT, are difficult to prove.
+RM possui vantagens importantes, incluindo excelentes contrastes e                                                                   Potential advantages of PET/MRI include high soft
+resolução, e menor radiação ionizante, em comparação ao PET/TC.                                                                      tissue contrast and functional MRI capability.(2)
+Por isto, é uma modalidade promissora para exames de imagem de                                                                               This novel technology can provide simultaneous
+pacientes oncológicos, para avaliar o cérebro, cabeça e pescoço, o                                                                   anatomic and molecular information and may come
+fígado e a pelve. O objetivo deste artigo foi analisar as situações clínicas                                                         to achieve similar success to PET/CT, particularly in
+que se beneficiariam de exames de PET/RM a partir de uma casuística.                                                                 oncologic conditions, in which MRI is more indicated
+Destacamos o potencial desta técnica se tornar o método de imagem                                                                    than CT due to improved soft tissue contrast. Magnetic
+de escolha para doenças neurológicas e oncológicas que envolvam
+partes moles. Os aspectos clínicos de PET/RM e sua aplicação aos                                                                     resonance imaging is the current imaging modality of
+casos clínicos são ilustrados com exemplos da experiência inicial dos                                                                choice for oncological conditions associated with soft
+autores.                                                                                                                             tissues (e.g., brain, head and neck, liver and pelvis).(3)
+
+1 Hospital Israelita Albert Einstein, São Paulo, SP, Brazil.
+Corresponding author: Taise Vitor – Avenida Albert Einstein, 627/701 – Morumbi – Zip code: 05652-900 – São Paulo, SP, Brazil – Phone: (55 11) 2151-4963 – E-mail: taisevitor@gmail.com
+Received on: June 28, 2016 – Accepted on: Oct 30, 2016
+DOI: 10.1590/S1679-45082017MD3793
+
+                      This content is licensed under a Creative Commons Attribution 4.0 International License.
+
+                                                                                                                                                                                                                             einstein. 2017;15(1):115-8
+---
+            116     Vitor T, Martins K M, Ionescu TM, Cunha ML, Baroni RH, Garcia MR, W agner J , Campos Neto GC, Nogueira SA, Guerra EG, Amaro J unior E
+
+      The aim of this paper is to describe and evaluate
+clinical aspects related to the use of PET/MRI in oncologic
+and neurologic diagnosis, and to illustrate the application
+of this imaging modality with examples extracted from
+the authors’ caseload and preliminary experience.
+
+METHODS
+Five clinical cases involving patients referred to our
+institution for PET/CT are described in this article.
+Patients were submitted can PET/MRI immediately after
+PET/CT,       without      any    further     intravenous        contrast
+agent injection for improved lesion characterization.
+Image acquisition was performed between 60 and 90
+minutes, after intravenous injection of 148 to 333MBq of
+specific radiotracers (18F-FDG, Fluorodeoxyglucose or
+68Ga-PSMA, prostate-specific membrane antigen labeled
+with68Ga). Scanning time ranged from 30 to 90 minutes;
+images with high anatomical resolution and excellent
+soft tissue contrast were obtained.
+
+PET/MRI
+PET/MRI with attenuation correction were acquired
+using     dual    echo     VIBE      Dixon      or    ultrashort     echo
+time sequences for water and fat or bone separation.
+Anatomical MRI sequences were selected according to
+the type of exam (whole-body, head and neck, female
+and male pelvis or neurologic protocols). Simultaneous
+acquisition of PET images was performed using the
+following parameters: 500mm FOV, 400mm anterior-
+posterior FOV, 1.0 zoom, 3 interactions, 21 subsets,
+HD PET reconstruction method, and 2.0mm Gaussian
+filter (oncological assessment); or 300mm FOV, 300mm
+anterior-posterior FOV, 1.0 zoom, 8 interactions, 21
+subsets, HD PET reconstruction and 2.0mm Gaussian
+filter (neurological assessment).
+
+
+Whole-body PET/MRI in oncology
+Whole-body PET/MRI is particularly indicated in cases
+requiring both the advantages of PET in detecting
+extramedullary disease, and the superiority of MRI
+in detecting spinal cord compression, extramedullary
+disease      and    active     post-treatment         residual      sites.
+Therefore        this   novel     technology        is  an   attractive
+alternative for multiple myeloma and bone metastasis
+assessment(4) (Figure 1).
+
+                                   A                                         B                                      C
+            Figure 1. Post-chemotherapy whole-body 18F-FDG PET/MRI images of a male patient with multiple myeloma, showing residual metabolic activity in the right iliac crest
+            and hypermetabolic left supraclavicular lymph node (arrows). (A) PET, maximum intensity projection image; (B and C) fused PET/MRI image, coronal T1
+
+            einstein. 2017;15(1):115-8
+---
+                                                                                                            PET/MRI: a novel hybrid imaging technique. Major clinical indications and preliminary experience in Brazil          117
+
+Head-and-neck PET/MRI
+The role of PET/MRI in head and neck cancer diagnosis
+was first investigated by Boss et al.(5)
+modality is attractive due to superior soft tissue contrast
+and the lower susceptibility of MRI to artifacts generated
+by dental metallic implants compared to CT.(6)
+       High spatial resolution and contrast of MRI are
+vital for tumor and regional lymph node staging in
+this complex anatomical region, given the ability of
+the method to delineate the actual tumor extent and
+distinguish lymph node involvement from surrounding
+normal tissue. Also, PET/MRI can be useful to detect
+distant         metastatic            spread,          thereby
+radiation therapy and preoperative treatment planning
+(Figure 2).
+
+
+
+
+
+
+
+     This imaging
+
+
+
+
+                                            A                                                B
+
+
+
+
+contributing              to
+
+
+                                                                   C
+                                     Figure 3.18F-FDG PET/MRI images of a female pelvis with invasive
+                                     adenocarcinoma of the cervix showing metabolic activity in the left uterine wall,
+                                     near the uterine cavity. (A) Dixon VIBE, coronal T2; (B) PET, maximum intensity
+                                     projection image; (C) fused PET/MRI image, coronal T2
+
+                                                                                                                              PET/MRI of the male pelvis
+                                                                                                                              Multiparametric MRI (mpMRI) can be combined
+                                                                                                                              with      68 Ga-PSMA PET for recurrent prostate cancer
+                                                                                                                              detection, staging and assessment. Superior results have
+                   A                                                    B                                                     been reported in the evaluation of the prostatic bed
+                                                                                                                              compared to PET/CT(8) (Figure 4).
+
+                   C                                                  D
+                 Figure 2. Head-and-neck 18 F-FDG PET/MRI images showing hypermetabolic
+                 uptake in the left anterior portion of the gum line, extending to adjacent
+                 structures. (A) fused PET/MRI image, sagittal T1; (B) sagittal T1; (C) fused                                         A                                             B
+                 PET/MRI image, axial T2 fat saturated; (D) PET, maximum intensity projection
+                 image (arrows)
+
+                 PET/MRI of the female pelvis
+                 According             to    the      National           Comprehensive                   Cancer
+                 Network (NCCN) guidelines, PET/CT and PET/MRI
+                 are indicated as supplemental exams in cases suspected                                                                                     C
+                 of gross cervical involvement or extrauterine disease.(7)
+                 PET/MRI provides higher diagnostic confidence for                                                            Figure 4.68 Ga-PSMA PET/MRI image of a pelvis with recurrent prostate
+                 discrimination between benign and malignant lesions                                                          carcinoma in left seminal vesicle remnant, and marked PSMA expression in the
+                                                                                                                              lesion. (A) MRI image, axial T2; (B) PET, maximum intensity projection image; (C)
+                 compared to PET/CT (Figure 3).                                                                               fused PET/MRI image, axial T2
+
+                                                                                                                                                                                                       einstein. 2017;15(1):115-8
+---
+               118       Vitor T, Martins K M, Ionescu TM, Cunha ML, Baroni RH, Garcia MR, W agner J , Campos Neto GC, Nogueira SA, Guerra EG, Amaro J unior E
+
+               PET/MRI in neurology                                                                                 information            for    easier       recognition           of  degeneration
+               Magnetic resonance imaging is the modality of choice for                                             patterns specific to Parkinson’s disease, multiple system
+               neuro-oncologic imaging, neurodegenerative diseases and                                              atrophy, progressive supranuclear palsy and corticobasal
+               epilepsy.(2,9)      Multimodal PET/MRI can provide functional                                        degeneration(10) (Figure 5).
+
+                                 A1                                         A2                                    A3                                       A4
+
+                                  B                                                              C                                                D
+               Figure 5. Brain 18 F-FDG PET/MRI images of a male patient with Parkinson’s disease and cognitive impairment, showing glucose metabolism deficit and volumetric
+               reduction in the left cerebral hemisphere. Similar findings can be seen in Lewy body dementia. (A1, A2, A3, A4) PET, volumetric reconstructions; (B) coronal T2; (C and
+               D) fused PET/MRI images (FLAIR)
+
+CONCLUSION
+
+PET/MRI is among the most exciting recent developments
+in non-invasive hybrid imaging; the combination of
+anatomical and functional imaging modalities and
+the use of different tracers to provide comprehensive
+
+valuable information. Growing experience with PET/
+MRI suggests it could become the imaging modality of
+
+choice, particularly for assessment of some regions, such as
+brain, head and neck, liver and pelvis. However, widely
+accepted clinical indications remain to be determined
+
+before conclusive statements regarding the advantages
+of PET/MRI, over PET/CT can be made.
+
+
+
+REFERENCES
+
+1.    Ter-Pogossian MM, Phelps ME, Hoffman EJ, Mullani NA. A positron-emission
+      transaxial tomograph for nuclear imaging (PETT). Radiology. 1975;114(1):89-98.
+
+2.    Spick C, Herrmann K, Czernin J. 18F-FDG PET/CT and PET/MRI perform equally
+      well in cancer: evidence from studies on more than 2,300 patients. J Nucl Med.
+      2016;57(3):420-30. Review.
+3.   Pichler BJ, Kolb A, Nägele T, Schlemmer HP. PET/MRI: paving the way for the
+     next generation of clinical multimodality imaging applications. J Nucl Med.
+     2010;51(3):333-6.
+4.   Barley K, Chari A. Diagnostic advances in multiple myeloma. Curr Hematol
+     Malig Rep. 2016;11(2):111-7. Review.
+5.   Boss A, Stegger L, Bisdas S, Kolb A, Schwenzer N, Pfister M, et al. Feasibility
+     of simultaneous PET/MR imaging in the head and upper neck area. Eur Radiol.
+     2011;21(7):1439-46.
+6.   Partovi S, Kohan A, Vercher-Conejero JL, Rubbert C, Margevicius S, Schluchter
+     MD, et al. Qualitative and quantitative performance of18F-FDG-PET/MRI versus
+     18F-FDG-PET/CT in patients with head and neck cancer. AJNR Am J Neuroradiol.
+     2014;35(10):1970-5.
+7.   National Comprehensive Cancer Network (NCCN). NCCN Guidelines® . NCCN
+     guidelines for treatment of cancer by site. Cervical cancer [Internet]. Fort
+     Washington: NCCN; 2016 [cited 2017 Jan 30]. Available from: https://www.
+     nccn.org/professionals/physician_gls/f_guidelines.asp
+8.   Afshar-Oromieh A, Haberkorn U, Schlemmer HP, Fenchel M, Eder M, Eisenhut
+     M, et al. Comparison of PET/CT and PET/MRI hybrid systems using a 68Ga
+     labelled PSMA ligand for the diagnosis of recurrent prostate cancer: initial
+     experience. Eur J Nucl Med Mol Imaging. 2014;41(5):887-97.
+     National Comprehensive Cancer Network (NCCN). NCCN Guidelines® . NCCN
+9.
+     guidelines for treatment of cancer by site. Central nervous system cancer
+     [Internet]. Fort Washington: NCCN; 2016 [cited 2017 Jan 30]. Available from:
+     https://www.nccn.org/professionals/physician_gls/f_guidelines.asp
+10.  Afaq A, Syed R, Bomanji J. PET/MRI: a new technology in the field of molecular
+     imaging. Br Med Bull. 2013;108:159-71. Review.
+
+               einstein. 2017;15(1):115-8
