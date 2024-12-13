@@ -1,4 +1,4 @@
-# Local-Ollama-RAG-Engine
+# Ollama and HuggingFace RAG Engine
 ![Static Badge](https://img.shields.io/badge/LLM-FF0000)
 ![Static Badge](https://img.shields.io/badge/Python-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/RAG-8A2BE2)
