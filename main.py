@@ -67,58 +67,63 @@ def format_docs(docs):
     return "\n\n".join([doc.page_content for doc in docs])
 
 #%%
-# Initialize environment
-initialize_environment()
 
-# Load .txt files and extract their text
-txt_directory = 'data'
-texts = load_txts_from_directory(txt_directory)
+def main():
+    # Initialize environment
+    initialize_environment()
 
-# Chunk the documents
-chunks = chunk_documents(texts)
+    # Load .txt files and extract their text
+    txt_directory = 'data'
+    texts = load_txts_from_directory(txt_directory)
 
-# Create embeddings and vector store
-embeddings = OllamaEmbeddings(model='nomic-embed-text', base_url="http://localhost:11434")
-embedding_dimensions = len(embeddings.embed_query("test query"))  # Determine embedding dimensions
-vector_store = create_vector_store(embedding_function=embeddings, dimensions=embedding_dimensions)
+    # Chunk the documents
+    chunks = chunk_documents(texts)
 
-# Convert chunks into Document objects and add to vector store
-documents = [Document(page_content=chunk) for chunk in chunks]
-document_ids = vector_store.add_documents(documents=documents)
+    # Create embeddings and vector store
+    embeddings = OllamaEmbeddings(model='nomic-embed-text', base_url="http://localhost:11434")
+    embedding_dimensions = len(embeddings.embed_query("test query"))  # Determine embedding dimensions
+    vector_store = create_vector_store(embedding_function=embeddings, dimensions=embedding_dimensions)
 
-
-model = ChatOllama(model="mistral", base_url="http://localhost:11434")
-
-template = """
-    You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question.
-    If you don't know the answer, just say that you don't know.
-    Answer in bullet points. Make sure your answer is relevant to the question and it is answered from the context only.
-    Question: {question} 
-    Context: {context} 
-    Answer:
-"""
-
-prompt = ChatPromptTemplate.from_template(template)
-
-while True:
-    question = input("You: ")
-    if question.lower() == "exit":
-        break;
-
-    #results = vector_store.search(query=question, search_type='similarity')
-
-    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs = {'k': 5, 'fetch_k': 50, 'lambda_mult': 0.5})
-
-    docs = retriever.invoke(question)
+    # Convert chunks into Document objects and add to vector store
+    documents = [Document(page_content=chunk) for chunk in chunks]
+    document_ids = vector_store.add_documents(documents=documents)
 
 
-    rag_chain = (
-        {"context": retriever|format_docs, "question": RunnablePassthrough()}
-        | prompt
-        | model
-        | StrOutputParser()
-    )
+    model = ChatOllama(model="mistral", base_url="http://localhost:11434")
 
-    output = rag_chain.invoke(question)
-    print(output)
-    # %%
+    template = """
+        You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question.
+        If you don't know the answer, just say that you don't know.
+        Answer in bullet points. Make sure your answer is relevant to the question and it is answered from the context only.
+        Question: {question} 
+        Context: {context} 
+        Answer:
+    """
+
+    prompt = ChatPromptTemplate.from_template(template)
+
+    while True:
+        question = input("You: ")
+        if question.lower() == "exit":
+            break;
+
+        #results = vector_store.search(query=question, search_type='similarity')
+
+        retriever = vector_store.as_retriever(search_type="mmr", search_kwargs = {'k': 5, 'fetch_k': 50, 'lambda_mult': 0.5})
+
+        docs = retriever.invoke(question)
+
+
+        rag_chain = (
+            {"context": retriever|format_docs, "question": RunnablePassthrough()}
+            | prompt
+            | model
+            | StrOutputParser()
+        )
+
+        output = rag_chain.invoke(question)
+        print(output)
+
+if __name__ == "__main__":
+    main()
+        # %%
